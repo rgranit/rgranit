@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-I'm Roy Granit, a Senior Bioinformatics Scientist and Team Leader @ [Compugen Ltd](https://cgen.com) (commits are my own..)
+I'm Roy Granit, an Associate Director of Bioinformatics @ [Compugen Ltd](https://cgen.com) (commits are my own..)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgranit)](https://github.com/anuraghazra/github-readme-stats)
 
